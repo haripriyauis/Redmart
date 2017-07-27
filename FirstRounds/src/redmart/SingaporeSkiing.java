@@ -56,7 +56,7 @@ public class SingaporeSkiing {
         }
 
 
-        System.out.println(String.valueOf(length).concat(String.valueOf((start-end))).concat("@redmart.com"));
+        System.out.println(String.valueOf(length).concat(String.valueOf((start-end))).concat("skybluecreative.in"));
 
 
 
